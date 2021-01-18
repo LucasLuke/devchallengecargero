@@ -13,12 +13,20 @@ Esta API possui a as seguintes funcionalidades...
 
 5- Filtro de endereço pelo nome do usuario.
 
+
 Ferramentas utilizadas:
+
 Visual Studio;
+
 Talend API Tester;
+
 gmaps-api-net
 
+
+
 As funcionalidades desse sistema espera as seguintes informações:
+
+
 
 1- Registro de usuarios;
 
