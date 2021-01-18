@@ -2,10 +2,15 @@
 Desafio de programação da cagueiro
 
 Esta API possui a as seguintes funcionalidades...
+
 1- Registro de usuarios;
+
 2- Cadastro de um endereço associado ao usuario;
+
 3- Deletar o usuario;
+
 4- Atualizar endereço cadastrado;
+
 5- Filtro de endereço pelo nome do usuario.
 
 Ferramentas utilizadas:
